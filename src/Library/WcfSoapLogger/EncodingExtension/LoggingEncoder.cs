@@ -53,6 +53,10 @@ namespace WcfSoapLogger.EncodingExtension
             }
         }
 
+        public override bool IsContentTypeSupported(string contentType)
+        {
+            return _innerEncoder.IsContentTypeSupported(contentType);
+        }
 
         public override Message ReadMessage(ArraySegment<byte> buffer, BufferManager bufferManager, string contentType)
         {
