@@ -15,8 +15,8 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 [assembly: Guid("36bfe869-f4ba-4aec-b1eb-955893481adc")]
 
-[assembly: AssemblyVersion("0.9.4")]
-[assembly: AssemblyFileVersion("0.9.4")]
+[assembly: AssemblyVersion("0.9.4.1")]
+[assembly: AssemblyFileVersion("0.9.4.1")]
 [assembly: AssemblyInformationalVersion("0.9.4")]
 
 [assembly: AssemblyKeyFile("StrongNameKey.snk")]

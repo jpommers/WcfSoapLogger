@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>WcfSoapLogger</id>
-    <version>0.9.4</version>
+    <version>0.9.4.1</version>
     <title>Logging SOAP request/response body at binary level</title>
     <summary>Logging SOAP request/response body at binary level</summary>
     <authors>Baurzhan Atanov</authors>
